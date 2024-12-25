@@ -1,11 +1,9 @@
+![image](https://github.com/user-attachments/assets/9d88b072-9ef0-4676-91a2-eec82bd28474)
+
 # Brainwave: AI Chat UI Concept
 
 ## Introduction
 The purpose of this project is to create an intuitive and user-friendly AI chat interface concept. The design aims to enhance user interactions with AI chatbots through responsive and adaptable UI elements. The interface is optimized for quick responses and seamless conversations, providing a smooth and engaging user experience across multiple platforms.
-
-
-![image](https://github.com/user-attachments/assets/9d88b072-9ef0-4676-91a2-eec82bd28474)
-
 
 ## Technologies Used
 This UI concept leverages the following technologies:
